@@ -1,13 +1,14 @@
 {
-    "version": "1.3.1",
-    "notes": "Info Center",
-    "pub_date": "2025-08-29T09:30:00Z",
+    "version": "1.3.2",
+    "notes": "Dieses Update enthält viele neue Funktionen und Verbesserungen:\n\n**Neue Funktionen:**\n- Rückstandsliste für eine bessere Übersicht.\n- Automatischer Logout nach Inaktivität für mehr Sicherheit.\n- App-Feedback-Funktion hinzugefügt.\n\n**Fixes & Verbesserungen:**\n- Ein kleines Easter-Egg für Jasmin wurde versteckt.\n- Zukünftige Updates können nicht mehr übersprungen werden.\n- Das Kontaktbuch hat jetzt eine Suchfunktion.\n- Samstagsplanung: Wunschfrei-Anträge zeigen jetzt die Antragszeit.\n- Urlaubsanträge zeigen jetzt die Antragszeit.\n- Im Kunden-Chat werden nun Uhrzeit und Datum korrekt angezeigt.",
+    "pub_date": "2025-09-2T09:30:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzIwTEN6OFFnVkQ5QWtJZHJoRStRTHZXcE1qYVNsV0NhL1BPN1R4UFFTTHhhQ2RSQWk3K2JTWS9jSlFWdUhCMmVmbHlzMGhwZlF0TURZUFdQanJvZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDIwNzg3CWZpbGU6R1pNIENvbm5lY3RfMS4zLjFfeDY0X2VuLVVTLm1zaQpVN1VnaTlkRUJna0dUWHF4VTNlQ0taK25XRUFpSXNUMlFyeGZKYndjQTI3N2pLYUJZQTVEZG56emJrU0x0QnJzY1RZVlM5bjE0SVNsV0JDWGt5QmVDUT09Cg==",
-            "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1018629101/09e19c13-e65f-4528-b688-ccf29fb907a1?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-28T23%3A36%3A37Z&rscd=attachment%3B+filename%3DGZM.Connect_1.3.1_x64_en-US.msi&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-08-28T22%3A36%3A20Z&ske=2025-08-28T23%3A36%3A37Z&sks=b&skv=2018-11-09&sig=c2p4Fvk3n5UkxdhAGCTwy%2BFAyWxp0cU6QCcx71qMmZM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1NjQyMTM1MCwibmJmIjoxNzU2NDIxMDUwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2wF-6YkvoGjuFibPa54JW7m9B5wiPvcKquz_y8XjzTg&response-content-disposition=attachment%3B%20filename%3DGZM.Connect_1.3.1_x64_en-US.msi&response-content-type=application%2Foctet-stream"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzV5V1AzT01HUk1YYzVxZWQyZE5qU0o0bWYwa2dtOThDMDF5QWF5R3ZHNFJudW5vNitiakZxdWVwOFRDRlprVXJLYVBJT2VGWFcyWFZvS0tpK21PdlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2ODQzNDgyCWZpbGU6R1pNIENvbm5lY3RfMS4zLjJfeDY0X2VuLVVTLm1zaQpqbDRKVjd5WElYUms1STZMQW4wakg0UzlKU1RlakFxVVlka0VvQ0xld0RsVmtMTGpuWG00Nm9qdEJCc3F2eXZqSjRCTVVmRmpBZnpvMUtmc2dpUGlEZz09Cg==",
+            "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1018629101/42af6b84-6f13-418f-8774-667a153ca388?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-09-02T20%3A57%3A40Z&rscd=attachment%3B+filename%3DGZM.Connect_1.3.2_x64_en-US.msi&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-09-02T19%3A57%3A26Z&ske=2025-09-02T20%3A57%3A40Z&sks=b&skv=2018-11-09&sig=55YMAu8egamQjjW6659PSKQAiMWiEU7ydFptgwvFJJM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1Njg0MzkwNCwibmJmIjoxNzU2ODQzNjA0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-7reZBSIK4x2Dph8A6DlV_Mumdh_FtA8XMHv9-2G0z4&response-content-disposition=attachment%3B%20filename%3DGZM.Connect_1.3.2_x64_en-US.msi&response-content-type=application%2Foctet-stream"
         }
     }
 
 }
+
 
