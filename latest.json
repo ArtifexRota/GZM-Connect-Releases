@@ -1,7 +1,7 @@
 {
     "version": "1.3.2",
     "notes": "Dieses Update enthält viele neue Funktionen und Verbesserungen:\n\n**Neue Funktionen:**\n- Rückstandsliste für eine bessere Übersicht.\n- Automatischer Logout nach Inaktivität für mehr Sicherheit.\n- App-Feedback-Funktion hinzugefügt.\n\n**Fixes & Verbesserungen:**\n- Ein kleines Easter-Egg für Jasmin wurde versteckt.\n- Zukünftige Updates können nicht mehr übersprungen werden.\n- Das Kontaktbuch hat jetzt eine Suchfunktion.\n- Samstagsplanung: Wunschfrei-Anträge zeigen jetzt die Antragszeit.\n- Urlaubsanträge zeigen jetzt die Antragszeit.\n- Im Kunden-Chat werden nun Uhrzeit und Datum korrekt angezeigt.",
-    "pub_date": "2025-09-2T09:30:00Z",
+    "pub_date": "2025-09-02T09:30:00Z",
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzV5V1AzT01HUk1YYzVxZWQyZE5qU0o0bWYwa2dtOThDMDF5QWF5R3ZHNFJudW5vNitiakZxdWVwOFRDRlprVXJLYVBJT2VGWFcyWFZvS0tpK21PdlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2ODQzNDgyCWZpbGU6R1pNIENvbm5lY3RfMS4zLjJfeDY0X2VuLVVTLm1zaQpqbDRKVjd5WElYUms1STZMQW4wakg0UzlKU1RlakFxVVlka0VvQ0xld0RsVmtMTGpuWG00Nm9qdEJCc3F2eXZqSjRCTVVmRmpBZnpvMUtmc2dpUGlEZz09Cg==",
@@ -10,5 +10,6 @@
     }
 
 }
+
 
 
