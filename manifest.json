@@ -1,9 +1,10 @@
 {
-  "version": "1.4.0",
-  "url": "https://firebasestorage.googleapis.com/v0/b/gzm-belling.firebasestorage.app/o/updates%2Fv1.4.0.zip?alt=media&token=5472bbdf-1c46-4aca-8449-3cf51feeb1fb",
-  "notes": "Dieses Update enthält viele neue Funktionen und Verbesserungen:\n\nNeue Funktionen:\n- Rückstandsliste für eine bessere Übersicht.\n- Automatischer Logout nach Inaktivität für mehr Sicherheit.\n- App-Feedback-Funktion hinzugefügt.\n\nFixes & Verbesserungen:\n- Ein kleines Easter-Egg für Jasmin wurde versteckt.\n- Zukünftige Updates können nicht mehr übersprungen werden.\n- Das Kontaktbuch hat jetzt eine Suchfunktion.\n- Samstagsplanung: Wunschfrei-Anträge zeigen jetzt die Antragszeit.\n- Urlaubsanträge zeigen jetzt die Antragszeit.\n- Im Kunden-Chat werden nun Uhrzeit und Datum korrekt angezeigt."
+  "version": "1.4.1",
+  "url": "https://firebasestorage.googleapis.com/v0/b/gzm-belling.firebasestorage.app/o/updates%2Fv1.4.1.zip?alt=media&token=1f1b8bd3-6c9e-4739-86c1-e230a8ed580f",
+  "notes": "Fixes"
 
 }
+
 
 
 
