@@ -1,14 +1,15 @@
 {
-    "version": "1.4.4",
-    "notes": "Upgrades Leute, Ugrades!",
-    "pub_date": "2025-10-26T09:00:00Z",
+    "version": "1.5.0",
+    "notes": "App Store Release",
+    "pub_date": "2025-11-06T09:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUytoTGVTVE8xV0pxTlEwVVFpd01NTmlobThGTGRlMDRWY2FSTC90M0xCY1RNeGZXS0EwSHRLSTJFd1dtUGZyQWFHWGcxV0RnRjY4UUNqM2R1S21mVmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNTA1MzY1CWZpbGU6R1pNIENvbm5lY3RfMS40LjRfeDY0X2VuLVVTLm1zaQo1aUI0NktnNlZFaklYQm1ib3ZiaVQ0YUVvRU9qbmRYZ2U4SFBoRGNLa2M1TWd5YmV5OGNsZjFDQm95eGZHd3hrSm44Z2czTzdRZm1vNlBJOEhuU2JDZz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_1.4.4_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3pDRjFJSDZmT01hWlRMQ3lhSkpNUnFwNG44SklpTDhYOTQwMzJRRnMrRVRkMlZpVUVtc1dwZGFUTkpxOTY1VThwYlhOTmhVWTlyUC92cml5M2lFRFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNDYwMTE3CWZpbGU6R1pNIENvbm5lY3RfMS41LjBfeDY0X2VuLVVTLm1zaQpMb0c1R3duWXNFOGUzVk5wSHBwOThDUUpjcVppTWRDVE5hb25CUTNWajNHcmJrQzFWWGpJZDh6Ukg5YkpZRTIrbjBDK2FIV3NuVTcrekF4VVRZcGNBUT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_1.5.0_x64_en-US.msi"
         }
     }
 }
+
 
 
 
