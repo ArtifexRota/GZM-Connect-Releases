@@ -1,14 +1,15 @@
 {
-    "version": "1.5.1",
-    "notes": "Bike form Iso Fix",
-    "pub_date": "2025-11-24T09:00:00Z",
+    "version": "1.5.2",
+    "notes": "Fixes: Kalender, Chat, Performance, Samstagsplanung. Neu: Inventur, Einkaufsliste",
+    "pub_date": "2025-11-28T09:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzB5S1hONEI5VkRzTmg0SVU5QkxXZk01a2x1VE12bVR4bjdyUHR0dHp5N0dja3htYUdnMnVDNGRzOWxLdVVBRzRjT0RYcnNiVTZybGtNNnAvOVhYa2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MDEwMzA1CWZpbGU6R1pNIENvbm5lY3RfMS41LjFfeDY0X2VuLVVTLm1zaQptKzcrcG9uVU5MbDlKZHg4cWp3cXNiWm9qWnNWcGpWOGtPeWZ1emNEVytaZFAyNmhpTFNYOU1XNkRHd0NnR0pmaVNqS09Pcm1vZXA3NnhSNTBTdmJEdz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_1.5.1_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUy9aMG1kTEZIcFdoeXdLc1phSGtUbG1ENkRNVForOC9NSzFOS0pFTDl1bzlCYnlwNGNVelBhb3Fsd1R1S1VIcDNHajBaQlFQUlNheUQ2b0NFMFVsVUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Mjg0MzMxCWZpbGU6R1pNIENvbm5lY3RfMS41LjJfeDY0X2VuLVVTLm1zaQp0RHZrT3R5WDdSWTdTVWtPSXRiaFArK1F6NWIrb1pKWDNkOW1obWg2aWVHWTdZRnFNOWRxbWoyQStpZjB3NVp4SHZISXJJOTdpVUhacURvR2hJUGpCUT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_1.5.5_x64_en-US.msi"
         }
     }
 }
+
 
 
 
