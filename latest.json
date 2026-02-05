@@ -1,14 +1,15 @@
 {
-    "version": "1.5.2",
-    "notes": "Fixes: Kalender, Chat, Performance, Samstagsplanung. Neu: Inventur, Einkaufsliste",
-    "pub_date": "2025-11-28T09:00:00Z",
+    "version": "1.5.3",
+    "notes": "Termin Limit, iOS17 Fehlerbehebung",
+    "pub_date": "2026-02-05T09:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUy9aMG1kTEZIcFdoeXdLc1phSGtUbG1ENkRNVForOC9NSzFOS0pFTDl1bzlCYnlwNGNVelBhb3Fsd1R1S1VIcDNHajBaQlFQUlNheUQ2b0NFMFVsVUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Mjg0MzMxCWZpbGU6R1pNIENvbm5lY3RfMS41LjJfeDY0X2VuLVVTLm1zaQp0RHZrT3R5WDdSWTdTVWtPSXRiaFArK1F6NWIrb1pKWDNkOW1obWg2aWVHWTdZRnFNOWRxbWoyQStpZjB3NVp4SHZISXJJOTdpVUhacURvR2hJUGpCUT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_1.5.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3o4Tit0YThNbUJXUGw2Nmo2V29WekVQS20xMlJhMk0xV2Rod0NLL0NnTmpOUEtuUGNKajNobTEweDN5MGp6WmNaQUwxNXVjUUN1L1RKTUY3M0gzN1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzI4OTU0CWZpbGU6R1pNIENvbm5lY3RfMS41LjNfeDY0X2VuLVVTLm1zaQpXdkJTamFSR2g4ZXkydkQ5Tng5eExVMDcvRU5Pdk5mYzREbXFuOWwxTDV1NS9zb04xbmpzZ05GRHk5M0ZHN0ZXaFdhaGg0bTIzZFBMNDFSck9SZ0RCQT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_1.5.3_x64_en-US.msi"
         }
     }
 }
+
 
 
 
