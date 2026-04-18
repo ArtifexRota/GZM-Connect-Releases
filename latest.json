@@ -1,11 +1,11 @@
 {
-    "version": "1.6.0",
-    "notes": "Badge fix, besseres Termin buchen",
-    "pub_date": "2026-04-12T09:00:00Z",
+    "version": "1.6.1",
+    "notes": "nichts neues",
+    "pub_date": "2026-04-18T09:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzY1ajhHVGRHY29kQTdiRnZMV01xK1ptblRQNGpVVDIwcXl2S0g0cWNnemM1V0NOMzJpTEpFTkhvK3RuWS92WVVmQ28vTDdBYnRFajFoYms4akFoeUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDE5MzU5CWZpbGU6R1pNIENvbm5lY3RfMS42LjBfeDY0X2VuLVVTLm1zaQo0aXltMTNyd0pka0krVjN6WXhWc2o0aHRMdCtsSHJYMlZGNHZUMFVOUStrSjJoYklWaEtHOEV1T0R4Q0MycGFSTVM3Y1F6OW4wS3ZwR1NYNGprUi9EQT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_1.6.0_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzVUbk1ZTkJ2TW1ZRnFTbHBPL2Z1dUxJdzZ0czk2ekFSOVhHZVBOUGx3WVIvOWxlbHZudE5qUG5DRitlLzhjTEMyTUVPSmE0WUtsVWVMWmFTek5VclE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTMwNjcyCWZpbGU6R1pNIENvbm5lY3RfMS42LjFfeDY0X2VuLVVTLm1zaQp0RXZTMzVhVnJIbnl4c25Zd2Z3Nm1JdGVjSXVVb1dnc3E4dHR3R1BOa0hMa1RISTBiT2t0N1JIYkJTWU9hZ3k3YURyb2VlbkhnTUN1TUVHV2M5UjFCdz09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_1.6.1_x64_en-US.msi"
         }
     }
 }
