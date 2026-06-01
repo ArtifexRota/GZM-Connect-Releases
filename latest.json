@@ -1,11 +1,11 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "notes": "Glass morphism, kleine Überraschung",
-    "pub_date": "2026-05-25T09:00:00Z",
+    "pub_date": "2026-06-01T09:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3pnWVNpOC9maVFjTHVXWnlHWGIrMC9renFodFNmbVJCby85N3pFa2tnK05HeVc3dTJRdjFRYkdGV0Z5ZTdhZVlFczFxQVFpT2s1cXVjeDFLT21OQWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzQxNTU0CWZpbGU6R1pNIENvbm5lY3RfMi4wLjBfeDY0X2VuLVVTLm1zaQpHcW1TSHlsQ2FXVDFXSXF5UU4yZjhTQm1qRVorL0g4OHgrWnFzZnp0L0E0c0gya2w3QVkvYUs4bXMrR2h5NVhIVWVMZ3hUcURYeUxQLzVmQTk5cVREZz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_2.0.0_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzlWd0ZJNkF0MjQ4VXI0TFNyMWlRRGV6Yk1GSjVxaFdMOVdZVWRlbnVTQzVlZXBWTGRaOGk4OWo3ZXR2Umg1bHJ0TThFRjc4RDFzNTdlODJpOWNRaUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzQ1OTkzCWZpbGU6R1pNIENvbm5lY3RfMi4xLjBfeDY0X2VuLVVTLm1zaQplU25QOXBvTnhHOW9PQmFaQ3ZsekVNa0c1bjFGYjRGVCtsUDI5aXoxbGxLQmNxZ3ZIQ3g0dEI3VnpjRmg2bVZRMW53bHZPN1dtVXNkbjFaSklaWURDdz09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_2.1.0_x64_en-US.msi"
         }
     }
 }
