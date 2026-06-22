@@ -1,11 +1,11 @@
 {
-    "version": "2.1.0",
+    "version": "3.0.1",
     "notes": "Fehlerbehebung",
-    "pub_date": "2026-06-01T09:00:00Z",
+    "pub_date": "2026-06-22T09:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzlWd0ZJNkF0MjQ4VXI0TFNyMWlRRGV6Yk1GSjVxaFdMOVdZVWRlbnVTQzVlZXBWTGRaOGk4OWo3ZXR2Umg1bHJ0TThFRjc4RDFzNTdlODJpOWNRaUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzQ1OTkzCWZpbGU6R1pNIENvbm5lY3RfMi4xLjBfeDY0X2VuLVVTLm1zaQplU25QOXBvTnhHOW9PQmFaQ3ZsekVNa0c1bjFGYjRGVCtsUDI5aXoxbGxLQmNxZ3ZIQ3g0dEI3VnpjRmg2bVZRMW53bHZPN1dtVXNkbjFaSklaWURDdz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_2.1.0_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzJhZ2FFRmpQU2dlZjhHNTN5NmYyTDlpc2JRaStDaTdGMHQwU09jUDNjeWxxc0xBMGhkMzJMU2hsZ0dZKzQ1TUhqcE5qRlQ1ZzBuQzlCaVFrbVNLRFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTA4Nzc4CWZpbGU6R1pNIENvbm5lY3RfMy4wLjFfeDY0X2VuLVVTLm1zaQpITGsrdXhQdzFTaXljNzdzQjJmNmFZK1l0L3kxaGtGd3hFMklFeHNaOHh6QTR5ckRDZGNyTUwvOU01VFBJaWQ0ck44aWRTczhzeE0vQmIvUzFvZUJBdz09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.0.1_x64_en-US.msi"
         }
     }
 }
