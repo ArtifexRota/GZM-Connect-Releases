@@ -1,7 +1,6 @@
 {
     "version": "3.0.2",
-    "notes": "### Fehlerbehebungen\n* Backlogitem kann wieder angelegt werden.\n* Kalender zeigt nur noch Termine vom eigenen Standort.\n\n### Neuerungen\n* Tokenbasierte Suche im Kalender.\n* Filterung nach Newsletter-Abonnenten in der User-Liste.\n* Bundesland nun für den Standort auswählbar.\n* Kalender zeigt nun anhand des Bundeslandes die Ferien und Feiertage an.",
-    "pub_date": "2026-06-24T09:00:00Z",
+    "notes": "Fehlerbehebungen:\n- Backlogitem kann wieder angelegt werden.\n- Kalender zeigt nur noch Termine vom eigenen Standort.\n\nNeuerungen:\n- Tokenbasierte Suche im Kalender.\n- Filterung nach Newsletter-Abonnenten in der User-Liste.\n- Bundesland nun für den Standort auswählbar.\n- Kalender zeigt nun anhand des Bundeslandes die Ferien und Feiertage an.",    "pub_date": "2026-06-24T09:00:00Z",
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzN2K0lsQ3J2VVRIV2RicVlteU10eHJnbDR6VWdMOFA4Vm5DQXZCMHJIRkt0Q3lodW9scGFUZkd1TDY4dUl2R2dYTUhCQnVxRGI0MTVqdFd2TEJjVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzMxNTA3CWZpbGU6R1pNIENvbm5lY3RfMy4wLjJfeDY0X2VuLVVTLm1zaQpXOGtDL0lmcEUrazk2V1VhcWErRjdiRDY1cktITXlxZVdDaXZ6YTRGbk96S3VtVDk1TXhaRE13VkhqU2pjY1crRVZPTWthVXBGc21uUXBWeHdET0xCZz09Cg==",
