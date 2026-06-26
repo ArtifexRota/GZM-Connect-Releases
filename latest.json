@@ -1,10 +1,10 @@
 {
-    "version": "3.0.2",
-    "notes": "Fehlerbehebungen:\n- Backlogitem kann wieder angelegt werden.\n- Kalender zeigt nur noch Termine vom eigenen Standort.\n\nNeuerungen:\n- Tokenbasierte Suche im Kalender.\n- Filterung nach Newsletter-Abonnenten in der User-Liste.\n- Bundesland nun für den Standort auswählbar.\n- Kalender zeigt nun anhand des Bundeslandes die Ferien und Feiertage an.",    "pub_date": "2026-06-24T09:00:00Z",
+    "version": "3.1.0",
+    "notes": "Neuerungen:\n- Dubletten-Dashboard hinzugefügt.\n- Standortbasierte SQL-Konfiguration integriert.\n- Paginierung implementiert.\n\nFehlerbehebungen:\n- Synchrone isStaff-Berechnung implementiert (behebt F5-Logout- und Berechtigungsfehler).\n- Verschiedene UI-Fehler behoben.\n\nPerformance:\n- Massive Optimierung der Kaltstart-Zeiten.",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzN2K0lsQ3J2VVRIV2RicVlteU10eHJnbDR6VWdMOFA4Vm5DQXZCMHJIRkt0Q3lodW9scGFUZkd1TDY4dUl2R2dYTUhCQnVxRGI0MTVqdFd2TEJjVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzMxNTA3CWZpbGU6R1pNIENvbm5lY3RfMy4wLjJfeDY0X2VuLVVTLm1zaQpXOGtDL0lmcEUrazk2V1VhcWErRjdiRDY1cktITXlxZVdDaXZ6YTRGbk96S3VtVDk1TXhaRE13VkhqU2pjY1crRVZPTWthVXBGc21uUXBWeHdET0xCZz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.0.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3haNlFRbjM0Q09tUEd1c2tPSmFHYmlqQ0lSV3JRVEZaQlo0eWZybXEvQXowa1ZPNk5Xd3ZZZW0rK1g2bE4wK2V0ZjBWSlFETC9zc2twQTRXTWlwK3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDU0NTk5CWZpbGU6R1pNIENvbm5lY3RfMy4xLjBfeDY0X2VuLVVTLm1zaQpSeURGb3VmWWpXbWsyeEFqeTN5YUs5dHV5K3ZnRmRmVWwybzJKVGg1cmx0SHBoSXUwNjJ0T0c3V3VEcmE0MjFnbGwwMnVWUTJYUW5vY2dsUUNIRlFDUT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.1.0_x64_en-US.msi"
         }
     }
 }
