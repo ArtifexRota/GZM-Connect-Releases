@@ -1,19 +1,11 @@
 {
-    "version": "3.1.0",
-    "notes": "Neuerungen:\n- Dubletten-Dashboard hinzugefügt.\n- Standortbasierte SQL-Konfiguration integriert.\n- Paginierung implementiert.\n\nFehlerbehebungen:\n- Synchrone isStaff-Berechnung implementiert (behebt F5-Logout- und Berechtigungsfehler).\n- Verschiedene UI-Fehler behoben.\n\nPerformance:\n- Massive Optimierung der Kaltstart-Zeiten.",
+    "version": "3.2.0",
+    "notes": "Neuerungen:\n- WAWI-Reparaturen-Sync integriert (Webhook, Page, Poller-Anpassung).\n- Berichtsheft-Feature vollständig implementiert inkl. Meta-Bearbeitungen.\n- Benutzeroberfläche für Banküberweisungen und CallCenter-Logs aktualisiert.\n\nFehlerbehebungen:\n- Einschränkungen der WhatsApp Template API und Multi-Tenant-Routing behoben.\n- Fehler in den Dubletten-Regeln korrigiert.\n\nPerformance:\n- GlobalDataContext implementiert, um Firestore-Lesezugriffe zu cachen und Kosten zu senken.",
+    "pub_date": "2026-07-12T12:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3haNlFRbjM0Q09tUEd1c2tPSmFHYmlqQ0lSV3JRVEZaQlo0eWZybXEvQXowa1ZPNk5Xd3ZZZW0rK1g2bE4wK2V0ZjBWSlFETC9zc2twQTRXTWlwK3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDU0NTk5CWZpbGU6R1pNIENvbm5lY3RfMy4xLjBfeDY0X2VuLVVTLm1zaQpSeURGb3VmWWpXbWsyeEFqeTN5YUs5dHV5K3ZnRmRmVWwybzJKVGg1cmx0SHBoSXUwNjJ0T0c3V3VEcmE0MjFnbGwwMnVWUTJYUW5vY2dsUUNIRlFDUT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.1.0_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzVjZzZUTm0waDVBVG1YZVM5N1Z5M3RqN29TNzU5SlQ0cWR0OVF3T1Jyd2xPdlArVU5zdzVMYnFVdDN1cmNBN3Ftd1JCQThzTkx0QmswUlZBRy83dndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODc5MDg2CWZpbGU6R1pNIENvbm5lY3RfMy4yLjBfeDY0X2VuLVVTLm1zaQptK25XNFNQTytYV2JyTTQ2cGRsOW5GMjRIL0Vzd3RnT3h5ZTdKZUdjOGRPRlJGM0JsRWJKSmg4RjlUNnZBSWdTQTZiZHB5cmZ5OGova2ZMazk0VWxBdz09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.2.0_x64_en-US.msi"
         }
     }
 }
-
-
-
-
-
-
-
-
-
