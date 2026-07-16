@@ -1,11 +1,11 @@
 {
-    "version": "3.3.0",
-    "notes": "Neuerungen:\n- Komplettes Leasing-Feature integriert (Vertragsverwaltung, dynamische Formulare & komplexe Filter).\n- Öffentliche Seite für digitale Vertragsunterschriften (inkl. Auto-Locking).\n- Automatische PDF-Generierung für Verträge implementiert.\n- Hintergrundprozess (Cron-Job) zur automatischen Beendigung abgelaufener Leasingverträge hinzugefügt.\n- Ausbildungs-Setup und dynamische Berichtszeiträume integriert.\n- DevTools für Tauri-Release-Builds aktiviert.\n\nFehlerbehebungen:\n- \"White Screen\"-Absturz in Tauri durch dynamischen Capacitor-Modul-Import behoben.\n- Datumsformate in Berichten korrigiert.\n- AzubiReport UI-Anpassungen und Fehler bei Signatur-Sperren repariert.\n- Vite-Build-Probleme und React-Hook-Verletzungen in Listen behoben.",
-    "pub_date": "2026-07-15T12:00:00Z",
+    "version": "3.3.1",
+    "notes": "Anpassungen:\n- Kalender-Benutzeroberfläche in den Benutzereinstellungen angepasst.\n\nFehlerbehebungen:\n- Problem mit Downloads in der App behoben.\n- Mobile Eingabe auf der Berichtsheft-Seite korrigiert (Durchschnittsstunden akzeptieren jetzt auch Dezimalzahlen).",
+    "pub_date": "2026-07-16T12:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUyt6QVhvWENpejNRQ3I2ZTJJdlZoT1lFc2VHRjk5d1A0b1V2SkZOdGEwcjRadHRkb1VXWHRTV1gzM1lYSDBldk9YWVJjYTN3UGRMSEVNMkI1YjdGeWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDY4MTU5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjBfeDY0X2VuLVVTLm1zaQpsWHgwcmRVdW5pV1NVZENpcUVYSUNtdjBVWW1MNkI5dk8vRWI4ak91MkpzSmttUUhMM3NKL0tGTDR1K2VaT1NqZkUydXFadnhDd0R5eHdMeGU5M0tBQT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.0_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzBDbEw5dHVzNWRYbjlBa1hDNzBaUUdJTWtXd0xPZFc0dTZsTnZaaFczWmV3ZEtIM0o1NURVc3VuMC9QMTN4bWZBWUhMVDNrRHp0VlExVW9NY2tIVGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjM0MjcxCWZpbGU6R1pNIENvbm5lY3RfMy4zLjFfeDY0X2VuLVVTLm1zaQpBMGtIeXUwNk1XL09BMndZRS9wVlcwVXpuTzhMOEZ1OTJUN2pWRk1aNzVQd2NHWmpzaUZsL3hPdUNjR2JxdlFnYWNhd05wdVJWTTJ5LzJFSmxEQ3BEZz09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.1_x64_en-US.msi"
         }
     }
 }
