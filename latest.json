@@ -1,11 +1,11 @@
 {
-    "version": "3.3.1",
-    "notes": "Anpassungen:\n- Kalender-Benutzeroberfläche in den Benutzereinstellungen angepasst.\n\nFehlerbehebungen:\n- Problem mit Downloads in der App behoben.\n- Mobile Eingabe auf der Berichtsheft-Seite korrigiert (Durchschnittsstunden akzeptieren jetzt auch Dezimalzahlen).",
-    "pub_date": "2026-07-16T12:00:00Z",
+    "version": "3.3.2",
+    "notes": "Neuerungen:\n- Leasinggesellschaften können jetzt von Administratoren angelegt werden.\n\nFehlerbehebungen & Anpassungen:\n- QR-Code für die Unterschrift des Leasing-Vorvertrags repariert.\n- Dublettenprüfung ist nun auch für Mitarbeiter zugänglich.",
+    "pub_date": "2026-07-20T08:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzRGNUFwTUttZkpqT3grbzFzZlllSTYyNEVNZzIyYTQ3YWVyenQxZWp5YVh4RG9qbmE3SlRuZjJiUTRxYVQ4RWM4Y0wrdjF3c09TRHIvQ3ZWd09FcFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjM1NDQ5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjFfeDY0X2VuLVVTLm1zaQphZ0hXVDh4Y3V0cUJLZ01CQ2xTSHh5azZUWU56NVpUU1gwZmE5WmVkNkcrbnRKaDV2QVJOT3NDaGkvUU16OEVEUWYxUjlIOGNQYnhaRjgrbHdlUndBQT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.1_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzRXRExESkMycTg2cHZJM3ZXNjlVeEFURWlJWWtpam5CRWdnM1hmR2dSbnFzQm51RnFTU2pWck12QmhSNlBZTytmSTVZc3NxOHpHUHV1cHJOZzBobEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTI2ODY0CWZpbGU6R1pNIENvbm5lY3RfMy4zLjJfeDY0X2VuLVVTLm1zaQphYlQ4NkJGUVRQTERTc1lETlIyckdhSEJFNmg2c2RzajFmRm8vQmFXR1FzSWZURkt1RG5tK1VpT3lJd3pqMUNQRnEzU1Y3dXRjSGpVSmZrdDRkQ1NCdz09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.2_x64_en-US.msi"
         }
     }
 }
