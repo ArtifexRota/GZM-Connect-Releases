@@ -1,11 +1,11 @@
 {
-    "version": "3.3.2",
-    "notes": "Neuerungen:\n- Leasinggesellschaften können jetzt von Administratoren angelegt werden.\n\nFehlerbehebungen & Anpassungen:\n- QR-Code für die Unterschrift des Leasing-Vorvertrags repariert.\n- Dublettenprüfung ist nun auch für Mitarbeiter zugänglich.",
-    "pub_date": "2026-07-20T08:00:00Z",
+    "version": "3.3.3",
+    "notes": "Neuerungen & Anpassungen:\n- Leasing-Funktionen aktualisiert und Verkäufer hinzugefügt.\n- Lösch-Dialog (Modal) überarbeitet.\n- Globale Event-Einstellungen aktualisiert.",
+    "pub_date": "2026-07-21T20:30:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzRXRExESkMycTg2cHZJM3ZXNjlVeEFURWlJWWtpam5CRWdnM1hmR2dSbnFzQm51RnFTU2pWck12QmhSNlBZTytmSTVZc3NxOHpHUHV1cHJOZzBobEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTI2ODY0CWZpbGU6R1pNIENvbm5lY3RfMy4zLjJfeDY0X2VuLVVTLm1zaQphYlQ4NkJGUVRQTERTc1lETlIyckdhSEJFNmg2c2RzajFmRm8vQmFXR1FzSWZURkt1RG5tK1VpT3lJd3pqMUNQRnEzU1Y3dXRjSGpVSmZrdDRkQ1NCdz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzZxNno3a2ZJZGlWY3o5Ky9nMVdEOXFFRU42M3JqWGdXZEQvT3JlMTVVcVZtaWhyeThidFJUdnBmWkpENjFXaGpaTDZHVlFISkdlSWJpSmxwa21lZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjY2Mzc3CWZpbGU6R1pNIENvbm5lY3RfMy4zLjNfeDY0X2VuLVVTLm1zaQppRlJuNzNudmhKcEIvZTNFMVQxNDRoSklZUjlLS1NTaWtGZU81ak5TYjhXTTlxYjhJNEZTRGFmdkhhVHdBTkxqTGwxeHh3cDk1UXMvYkVYV2tqbWpCdz09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.3_x64_en-US.msi"
         }
     }
 }
