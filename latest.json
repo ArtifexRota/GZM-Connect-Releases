@@ -1,11 +1,11 @@
 {
-    "version": "3.3.3",
-    "notes": "Neuerungen & Anpassungen:\n- Leasing-Funktionen aktualisiert und Verkäufer hinzugefügt.\n- Lösch-Dialog (Modal) überarbeitet.\n- Globale Event-Einstellungen aktualisiert.",
-    "pub_date": "2026-07-21T20:30:00Z",
+    "version": "3.3.4",
+    "notes": "Neuerungen & Anpassungen:\n- Erfassung der internen Arbeitszeit (InternalWorkTime) implementiert.\n- Android-Version synchron aktualisiert.\n\nFehlerbehebungen:\n- Verschiedene UI-Anpassungen und Fehlerbehebungen.",
+    "pub_date": "2026-07-30T20:35:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzZxNno3a2ZJZGlWY3o5Ky9nMVdEOXFFRU42M3JqWGdXZEQvT3JlMTVVcVZtaWhyeThidFJUdnBmWkpENjFXaGpaTDZHVlFISkdlSWJpSmxwa21lZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjY2Mzc3CWZpbGU6R1pNIENvbm5lY3RfMy4zLjNfeDY0X2VuLVVTLm1zaQppRlJuNzNudmhKcEIvZTNFMVQxNDRoSklZUjlLS1NTaWtGZU81ak5TYjhXTTlxYjhJNEZTRGFmdkhhVHdBTkxqTGwxeHh3cDk1UXMvYkVYV2tqbWpCdz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.3_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3gwa1BucjVuSkkwUGRxMEN4T0g4dXpJZzBjWnZaOE96aDA3Q1lTTy8vNmxWQmc1TloxV2w4Rjk3SlF0eUlWNEkvbTFiWHVkTkE5QzJ2aGdFV3liWmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDQzODU5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjRfeDY0X2VuLVVTLm1zaQpVVG9oRjhaTVZHRU0yNkh2Yjh6QVZmWmVtMUZTOE15Q2lVZUt0ZGtxaUZTRkoyRURPR1Vya0praGdLK1pRNkxwcGlQaGEvVU1naUR0VTBFM2pvalFCUT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.4_x64_en-US.msi"
         }
     }
 }
