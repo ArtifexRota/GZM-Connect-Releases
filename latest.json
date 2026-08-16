@@ -1,11 +1,11 @@
 {
-    "version": "3.3.4",
-    "notes": "Neuerungen & Anpassungen:\n- Erfassung der internen Arbeitszeit (InternalWorkTime) implementiert.\n- Android-Version synchron aktualisiert.\n\nFehlerbehebungen:\n- Verschiedene UI-Anpassungen und Fehlerbehebungen.",
-    "pub_date": "2026-07-30T20:35:00Z",
+    "version": "3.3.5",
+    "notes": "Neuerungen & Anpassungen:\n- Admins können jetzt den Leasingvertragsstatus frei ändern.\n- Leasingverträge können jetzt sofort ohne Zwischenspeichern unterschrieben werden.\n- Sentry zur besseren Fehlerermittlung integriert.\n- Schultage werden nun in der Kalender-Sidebar angezeigt.",
+    "pub_date": "2026-08-16T12:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3gwa1BucjVuSkkwUGRxMEN4T0g4dXpJZzBjWnZaOE96aDA3Q1lTTy8vNmxWQmc1TloxV2w4Rjk3SlF0eUlWNEkvbTFiWHVkTkE5QzJ2aGdFV3liWmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDQzODU5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjRfeDY0X2VuLVVTLm1zaQpVVG9oRjhaTVZHRU0yNkh2Yjh6QVZmWmVtMUZTOE15Q2lVZUt0ZGtxaUZTRkoyRURPR1Vya0praGdLK1pRNkxwcGlQaGEvVU1naUR0VTBFM2pvalFCUT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.4_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzFmTkY0Uk4vbm9RZnUxRldSTy90S2JzNjBldmlVN0wvT3VRRkY4WWc5WGMrbnEwM0dsSlF2eWdEUnpiTlM5c2tpRW5mSzE3aFVGVVFNcTJXUU55d1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODg1MTU5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjVfeDY0X2VuLVVTLm1zaQp6Yit0QVZ1T3hyWnZ6VTZISFl2WXhPa2Nmd0hSaCtzQTB5K2xzRDFlSEhyL0Q4Y2FzbzBsTU9rOVhnZjlaR1FicFNZOWZoNmFUYmJqRWlRaWdrRnNDUT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.5_x64_en-US.msi"
         }
     }
 }
