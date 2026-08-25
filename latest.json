@@ -1,11 +1,11 @@
 {
-    "version": "3.3.5",
-    "notes": "Neuerungen & Anpassungen:\n- Admins können jetzt den Leasingvertragsstatus frei ändern.\n- Leasingverträge können jetzt sofort ohne Zwischenspeichern unterschrieben werden.\n- Sentry zur besseren Fehlerermittlung integriert.\n- Schultage werden nun in der Kalender-Sidebar angezeigt.",
-    "pub_date": "2026-08-16T12:00:00Z",
+    "version": "3.3.6",
+    "notes": "Verbesserungen:\n- Telefonie & Statistiken: Die Dauer von Anrufen wird nun noch zuverlässiger erfasst und die monatlichen Auswertungen stimmen wieder exakt.\n- Performance & Sicherheit: Die App startet reibungsloser, lädt Daten schneller und ist durch neue Hintergrundmechanismen besser geschützt.\n- WhatsApp: Der Gelesen-Status von Nachrichten wird nun wieder verlässlich aktualisiert.\n- Benachrichtigungen: Push-Nachrichten kommen wieder zuverlässig an und fragen korrekt nach der Erlaubnis.\n\nFehlerbehebungen:\n- Berichtsheft: Azubis können Berichte wieder fehlerfrei erstellen und abgelehnte Einträge problemlos neu bearbeiten.\n- Log-in: Passwörter mit deutschen Umlauten (ä, ö, ü) werden jetzt problemlos akzeptiert.\n- Benutzeroberfläche: Diverse kleine Anzeigefehler (z. B. auf der Kunden-Startseite) und Probleme bei den Zugriffsrechten wurden behoben.\n- Benutzererfahrung: Verwirrende oder unnötige technische Fehlermeldungen wurden für eine störungsfreie Nutzung entfernt.",
+    "pub_date": "2026-08-25T17:50:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzFmTkY0Uk4vbm9RZnUxRldSTy90S2JzNjBldmlVN0wvT3VRRkY4WWc5WGMrbnEwM0dsSlF2eWdEUnpiTlM5c2tpRW5mSzE3aFVGVVFNcTJXUU55d1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODg1MTU5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjVfeDY0X2VuLVVTLm1zaQp6Yit0QVZ1T3hyWnZ6VTZISFl2WXhPa2Nmd0hSaCtzQTB5K2xzRDFlSEhyL0Q4Y2FzbzBsTU9rOVhnZjlaR1FicFNZOWZoNmFUYmJqRWlRaWdrRnNDUT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.5_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzNIaGFuS0l2Y3FadGd0Z3VMYldraWw0MmZ1REZ6V2wzTnY4Y3dwVjRheUlkR3YzMyt4OXN1QzlSMU53RFRrUFh2alVhVFc2VnJyd2xKT3ZEVnMrWFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njc5MjY5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjZfeDY0X2VuLVVTLm1zaQpWeVpvclpyeXFqd0E3UEpQNTBXempibE5ZRkhPZFgxOHBpbHEwdjB1UjA3REhYTyszNmQrWmp1ZzlMTFpYTVhJTzVKeGs2czBId3BQTk9DOFF4L25BUT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.6_x64_en-US.msi"
         }
     }
 }
