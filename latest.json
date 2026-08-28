@@ -1,11 +1,11 @@
 {
-    "version": "3.3.6",
-    "notes": "Verbesserungen:\n- Telefonie & Statistiken: Die Dauer von Anrufen wird nun noch zuverlässiger erfasst und die monatlichen Auswertungen stimmen wieder exakt.\n- Performance & Sicherheit: Die App startet reibungsloser, lädt Daten schneller und ist durch neue Hintergrundmechanismen besser geschützt.\n- WhatsApp: Der Gelesen-Status von Nachrichten wird nun wieder verlässlich aktualisiert.\n- Benachrichtigungen: Push-Nachrichten kommen wieder zuverlässig an und fragen korrekt nach der Erlaubnis.\n\nFehlerbehebungen:\n- Berichtsheft: Azubis können Berichte wieder fehlerfrei erstellen und abgelehnte Einträge problemlos neu bearbeiten.\n- Log-in: Passwörter mit deutschen Umlauten (ä, ö, ü) werden jetzt problemlos akzeptiert.\n- Benutzeroberfläche: Diverse kleine Anzeigefehler (z. B. auf der Kunden-Startseite) und Probleme bei den Zugriffsrechten wurden behoben.\n- Benutzererfahrung: Verwirrende oder unnötige technische Fehlermeldungen wurden für eine störungsfreie Nutzung entfernt.",
-    "pub_date": "2026-08-25T17:50:00Z",
+    "version": "3.3.7",
+    "notes": "Neue Funktionen:\n- WhatsApp: Fehlgeschlagene WhatsApp-Nachrichten können nun ganz einfach direkt aus den Benachrichtigungs-Logs heraus erneut gesendet werden.\n\nVerbesserungen:\n- Benachrichtigungs-Logs: Die Übersicht wurde aufgeräumt und optimiert, sodass Nachrichtenverläufe und Status-Meldungen jetzt schneller und leichter zu erfassen sind.",
+    "pub_date": "2026-08-28T08:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzNIaGFuS0l2Y3FadGd0Z3VMYldraWw0MmZ1REZ6V2wzTnY4Y3dwVjRheUlkR3YzMyt4OXN1QzlSMU53RFRrUFh2alVhVFc2VnJyd2xKT3ZEVnMrWFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Njc5MjY5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjZfeDY0X2VuLVVTLm1zaQpWeVpvclpyeXFqd0E3UEpQNTBXempibE5ZRkhPZFgxOHBpbHEwdjB1UjA3REhYTyszNmQrWmp1ZzlMTFpYTVhJTzVKeGs2czBId3BQTk9DOFF4L25BUT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.6_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzZwV05JMTNEMEdRQ3JrYkVldVlnK3V1VFlzV2pvYXFNeUpwbXU2S2wvQndsWm9PbEpkeGRZNkJZY09tU3h1N2tlM3NUaXh4TG9rRzk3QW9mYzRDQWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODk3NTY5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjdfeDY0X2VuLVVTLm1zaQpENExMSHBKN3dDQ3FBcjltbkYxUnhRaitLQXNVU2ZpWGVqRVRackwxejhSd2I5S3B1blBuTzFkTjhNNHJ1d21wY3M3andCQnloak1OSWI5MmpkVmNCUT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.7_x64_en-US.msi"
         }
     }
 }
