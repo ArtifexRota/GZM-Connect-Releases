@@ -1,11 +1,11 @@
 {
-    "version": "3.3.8",
-    "notes": "Neue Funktionen & Verbesserungen:\n- WaWi-Reparaturen: Die Ansicht wurde überarbeitet und die Zugriffsrechte feiner abgestimmt.\n- Nachbestellungen: Auf der Nachbestellungs-Seite (Restock) werden nun die Namen direkt angezeigt, was die Zuordnung erleichtert.\n- Dashboard: Die Startseite (Dashboard) hat ein Update erhalten.\n- System & Performance: Umfangreiche Hintergrundaktualisierungen sorgen dafür, dass die App im Alltag noch stabiler und zukunftssicherer läuft.\n\nFehlerbehebungen:\n- CSV-Exporte: Fehler bei der Darstellung von Sonderzeichen und Umlauten in exportierten Dateien wurden behoben.\n- Event-Kalender: Das Pop-up-Fenster für Events schließt sich nun wieder korrekt und wie erwartet, wenn man in den Hintergrund klickt.\n- Weitere kleine optische Anpassungen und Fehlerkorrekturen für eine flüssigere Bedienung.",
-    "pub_date": "2026-09-03T10:00:00Z",
+    "version": "3.3.9",
+    "notes": "Neue Funktionen & Verbesserungen:\n- Neues NFC-Werkzeug integriert, mit dem sich NFC-Tags beschreiben und im System nutzen lassen.\n- Die Benutzeroberfläche für den Reparaturbereich wurde aktualisiert und nutzerfreundlicher gestaltet.\n\nSystem & Performance:\n- Umfangreiche Server- und Hintergrundaktualisierungen durchgeführt, um die Stabilität und Leistung der App auf allen Geräten zu verbessern.",
+    "pub_date": "2026-09-03T20:56:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3pEaTZlUEVMaENPRHA1UWRldHB2Q1hFVFhWZFdKd3cxeUw5cEEyaXZUOENGOXpxcDAzSVA0M2t0QlU0VGk0SVF2YVk2WEhaVHZUV2Y0dzNYVG5sK2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDIyNzY5CWZpbGU6R1pNIENvbm5lY3RfMy4zLjhfeDY0X2VuLVVTLm1zaQpDSWZab3psV3RUOFJwZnJEVlY3TjNPOWJ0NUtabXZ0cGZ1UE4xUVZML2JnalU4WXhVSzZhT0JxbDdwdjA3QnBtTS9PMUpNaWRLVFZFRkR2RW1TZk1EUT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.8_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3loQy9iUTN4Mks0OUQxTlhXSk9IM3owRUt3L2M4Wm80UkxyWDJteFNZcCtySUJtcUZKVFpWeGRHY3A0bHFFMitud2Z4R1BZS0NZTGxQWkZWY0o3a1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY4OTE3CWZpbGU6R1pNIENvbm5lY3RfMy4zLjlfeDY0X2VuLVVTLm1zaQpQckV3VklCTmV3M3Y5d2plYlZ3YjRWQ0xTZU5RMUpkSjhvNUVhbTdpeHNZOGtMbjhaNkhkMi8vRjF5ODZlRXZiakZqM3B2NU9JaTBlS2tXTHh0NjRCQT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.9_x64_en-US.msi"
         }
     }
 }
