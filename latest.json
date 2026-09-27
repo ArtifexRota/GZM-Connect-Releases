@@ -1,11 +1,11 @@
 {
-    "version": "3.3.9",
-    "notes": "Neue Funktionen & Verbesserungen:\n- Neues NFC-Werkzeug integriert, mit dem sich NFC-Tags beschreiben und im System nutzen lassen.\n- Die Benutzeroberfläche für den Reparaturbereich wurde aktualisiert und nutzerfreundlicher gestaltet.\n\nSystem & Performance:\n- Umfangreiche Server- und Hintergrundaktualisierungen durchgeführt, um die Stabilität und Leistung der App auf allen Geräten zu verbessern.",
-    "pub_date": "2026-09-03T20:56:00Z",
+    "version": "3.4.0",
+    "notes": "Neue Funktionen:\n- Werkstatt-Auslastung: Neue smarte Tools zur Vorhersage (Radar) und Personalplanung (Werkstatt DAX) unterstützen jetzt den Werkstatt-Alltag.\n- BICO Laufrad-Katalog: Ein komplett neuer Katalog (inkl. Bestands-Synchronisierung) wurde für eine leichtere Suche integriert.\n- Getränke & Kasse: Die Verwaltung des Getränkekühlschranks hat ein großes Update bekommen, inklusive praktischem Rechner für Paletten (Trays) und einer besseren Kassenübersicht.\n- Leasing: Im Leasing-Baukasten können nun direkt die benötigten Ausweisdaten erfasst werden.\n- Kundenansicht: Preise für Reparaturen werden Kunden nun direkt und transparent in ihrer Übersicht angezeigt.\n\nVerbesserungen & Automatisierung:\n- Fahrrad-Historie: Die Reparaturhistorie in den Fahrrad-Details wurde optisch aufgeräumt und synchronisiert alte Archiv-Aufträge jetzt zuverlässig im Hintergrund.\n- WaWi-Sync: Der manuelle Datei-Upload (CSV) für Reparaturen gehört der Vergangenheit an – die Daten synchronisieren sich ab sofort automatisch.",
+    "pub_date": "2026-09-27T22:38:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3loQy9iUTN4Mks0OUQxTlhXSk9IM3owRUt3L2M4Wm80UkxyWDJteFNZcCtySUJtcUZKVFpWeGRHY3A0bHFFMitud2Z4R1BZS0NZTGxQWkZWY0o3a1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY4OTE3CWZpbGU6R1pNIENvbm5lY3RfMy4zLjlfeDY0X2VuLVVTLm1zaQpQckV3VklCTmV3M3Y5d2plYlZ3YjRWQ0xTZU5RMUpkSjhvNUVhbTdpeHNZOGtMbjhaNkhkMi8vRjF5ODZlRXZiakZqM3B2NU9JaTBlS2tXTHh0NjRCQT09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.3.9_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzNvSVhaZXN3U05hK2U2Z3psazYwd0s1d1FKOE1rK3F6SzNNZ3FGVWZ0Zk0vZEdleEZndGtwQ3ozcUxUb1R0ZVB4MEVFOSt2RGdReFFoMEYvK3FlZ2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTQxMjE4CWZpbGU6R1pNIENvbm5lY3RfMy40LjBfeDY0X2VuLVVTLm1zaQoyMjFOSnV1QWdLNzNHUjZFdWVJVDVtbk9XQVVadzRQOFRoSnNtR2dDbndOd1R3bUtENHVYT3BTN2o3akExK0VXcWwyTXZlQUpqcXNXWXRSdHI0OTVCUT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.4.0_x64_en-US.msi"
         }
     }
 }
