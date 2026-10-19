@@ -1,11 +1,11 @@
 {
-    "version": "3.4.2",
-    "notes": "Neue Funktionen & Verbesserungen:\n- Laufrad-Katalog: Die Suchfilter wurden stabilisiert und die Darstellung auf Mobilgeräten (Anpassung an die Kamera-Aussparung/Notch) wurde optimiert.\n- Bestandsverwaltung: Es gibt nun einen neuen Massen-Export (CSV) für den gesamten Bestand, und das Export-Format wurde weiter verfeinert.\n- Leasing: Im Leasing-Baukasten können ab sofort die benötigten Ausweisdaten direkt erfasst werden.\n- System: Externe Links werden nun reibungsloser und nativ verarbeitet.",
-    "pub_date": "2026-10-15T19:00:00Z",
+    "version": "3.5.0",
+    "notes": "Neue Funktionen & Verbesserungen:\n- Werkstatt-Fotos: Reparaturaufträge können nun direkt mit Fotos dokumentiert werden (inkl. Galerie-Ansicht und Multi-Upload). Die Anzahl der Bilder ist direkt auf der Werkstatt-Karte sichtbar.\n- Smarte Werkstatt-Sortierung: Aufträge ordnen sich jetzt intelligenter an (z. B. nach Fälligkeit unter Berücksichtigung der Öffnungszeiten, Express oder Stagnation).\n- Kundenwünsche: Neues System, um Verkaufswünsche und wiederkehrende Produktnachfragen von Kunden strukturiert zu erfassen.\n- Reklamationen: Eigener Bereich zur sauberen Verwaltung von Garantie- und Reklamationsfällen inklusive Bildanhängen.\n- Urlaubsplanung: Urlaubsanträge können ab sofort auch stundenweise (z. B. für Teilzeit) eingereicht werden.\n- Saisonale Effekte: Die App feiert mit! Zu Festtagen (Halloween, Weihnachten, Ostern) gibt es dezente Hintergrund-Animationen. Wer es klassisch mag, kann dies im Profil jederzeit abschalten.\n\nSystem & Fehlerbehebungen:\n- Zeiterfassung & Kalender: Fehlerhafte oder vertauschte Datumsangaben bei Anträgen werden jetzt zuverlässig abgefangen.\n- NFC (Android): Gescannte NFC-Tags öffnen nun verlässlich direkt die App anstatt den Webbrowser.",
+    "pub_date": "2026-10-19T20:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzI0T29zamJOb01ZZzBjV2U1cm1tUFZKV2FtZVh4ZExhWE4wbHl1N29EZG42bHFUSUlxbkcvNG5oL2c1R0FRZFdsMnFjV0hIQ2d6NDJSUm4vWjBXZnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDkxMjAyCWZpbGU6R1pNIENvbm5lY3RfMy40LjJfeDY0X2VuLVVTLm1zaQpmMFNDU1VZM3MwUlV2MC9sRS84ZmZUT1lYUmhncnBoMElmWUdSKzg2UVgzR0R3SkRPbVJkOXJZSldrZFMzWnpJU0Fwci9NTnJKdXFQN0lKcUFiSzdCZz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.4.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSU3lCcENzd0psUjNmWVJIaDlqclh2cmxuNVlOSWpvZDlQcUdRRFM1VDhET0dXaDZVaFE3N3h4T2NjSGNNSVdUNmtTUHhMVzN4U0VsY3VhaXdxMkVCR2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDMyNTY0CWZpbGU6R1pNIENvbm5lY3RfMy41LjBfeDY0X2VuLVVTLm1zaQo3Q2lWZ0FYSGVtNnVOZ1dnNkxVd3ZoSzg5Vkx3YURYT0ViODk5ZnJXbUwvWno1UHlUQXpiTkRHSjQxL2JGWGxwam5jQ1ZUaHJZYTFsWHJ1UGV4VFlDQT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.5.0_x64_en-US.msi"
         }
     }
 }
