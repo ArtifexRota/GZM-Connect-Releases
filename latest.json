@@ -1,11 +1,11 @@
 {
-    "version": "3.5.1",
-    "notes": "Neue Funktionen:\n- Werkstatt-Freigabe: Neues Status-System für Reparaturaufträge (inklusive klaren Kennzeichnungen wie \"GO\" und \"kann gemacht werden\").\n- Schadensberichte: Eigene (Inhouse) Schadensberichte und Gutachten können ab sofort direkt im System erstellt und verwaltet werden.\n\nSystem & Performance:\n- Telemetrie: Neue Hintergrund-Diagnosetools integriert, um die Stabilität der App zu erhöhen und Fehler schneller zu erkennen.",
-    "pub_date": "2026-10-21T19:50:00Z",
+    "version": "3.5.2",
+    "notes": "Neue Funktionen & Verbesserungen:\n- Abholungen (Pickups): Die Arbeitszeit (Start/Pause) kann nun direkt erfasst werden. Im Kalender zeigt ein neues \"In Arbeit\"-Badge an, wenn eine Abholung gerade bearbeitet wird.\n- Benutzeroberfläche: Die Darstellung auf den Abholkarten wurde optimiert. Zu lange Texte werden sauber gekürzt und beim Daraufzeigen mit der Maus (Hover) in einem kleinen Pop-up vollständig angezeigt.\n- Werkstatt-Statistik: Unterbrochene Reparaturen werden nun intelligenter gewichtet. Ein neuer Ausreißer-Filter verhindert zudem, dass vergessene und extrem lange laufende Timer die Statistiken verfälschen.\n\nFehlerbehebungen:\n- Statistiken & Auswertungen: Fehler bei der Berechnung von wöchentlichen Aufträgen, Termin-Zählungen und der Rückstands-Simulation wurden korrigiert.\n- Termine & Fristen: Ein Fehler bei der Berechnung der 7-Tage-Frist aufgrund von Zeitzonen wurde behoben. Termin-Daten bleiben bei der Synchronisation nun zuverlässig erhalten.\n- System: Speicherlimits für Hintergrundprozesse wurden erhöht, um eine stabilere Archivierung von Aufträgen zu gewährleisten.",
+    "pub_date": "2026-10-23T23:30:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzNyQzFFSUh3My93djhFNkFQR1loZTNZR2lpTlhIS2VBTjh0NHhQZktyMU1xYTJMYkJveDdzTm9OeUZZaUV5bzBlc2VQdkpTOTFXaWtKT3U2ckhQSlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA1MDcyCWZpbGU6R1pNIENvbm5lY3RfMy41LjFfeDY0X2VuLVVTLm1zaQpWVWxZTk4zaXZ3WXVrOVlERHoySnIwK1daVXJ5UFpxMnhjczZZRmN4RFQvSGlJbFd3VXpCT0pNWDNEa2hKbFVITndXQkNSTE1FbWN3YWk3V3VJVWlDdz09Cg==",
-            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.5.1_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE45TU9oTmFSUzVvUUNNenpxbmtnYXVGNmIreGZ0R3ZZeU9qQmFpeTJPR3pXMUpUNlBPMlZKaHVBdWhzdXBkNElSeTJsczRnaHY1SzNDMEJ3eDVTNzZhbTVtNmNVYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkxMTk2CWZpbGU6R1pNIENvbm5lY3RfMy41LjJfeDY0X2VuLVVTLm1zaQpDM0FIVmhLZlM4Zm5RcDJHUTdmcGpRSWx1QjNXV0hSWkFoZmo2TVgwdyt2U0x4V2tUQ21ZWk5wVlJycVlZQnVUbHVDUlhrNTFIUUtTUi9MQXRIdklEQT09Cg==",
+            "url": "https://github.com/ArtifexRota/GZM-Connect-Releases/releases/latest/download/GZM.Connect_3.5.2_x64_en-US.msi"
         }
     }
 }
